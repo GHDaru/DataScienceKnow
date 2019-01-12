@@ -36,6 +36,7 @@ Aprendizado de Máquina
   
 Visualização de Dados
   Power BI
+    https://lnkd.in/g9gZ7qh
   Microstrategy
   
 
